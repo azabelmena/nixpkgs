@@ -14,7 +14,7 @@
   eigen,
   fflas-ffpack,
   flint,
-  frobby, # NEEDS PACKAGE!
+  frobby,
   gdbm,
   givaro,
   gmp,
