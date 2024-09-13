@@ -36,7 +36,7 @@
   gfan,
   nauty,
   normaliz,
-  topcom, # NEEDS PACKAGE!
+  topcom,
   which
 }:
 
